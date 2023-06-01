@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="images">
+    <file>resources/settings.png</file>
+    <file>resources/stop.png</file>
+    <file>resources/record.png</file>
+    <file>resources/setting.png</file>
+    <file>resources/backspace.png</file>
+    <file>resources/stop.png</file>
+    <file>resources/lift.png</file>
+    <file>resources/icon.png</file>
+    <file>resources/onder.png</file>
+  </qresource>
+</RCC>

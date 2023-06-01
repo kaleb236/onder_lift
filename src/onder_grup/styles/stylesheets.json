@@ -1,0 +1,6 @@
+{
+  "record_style": "\n        image: url(:/images/resources/record.png);\n        background-color: #2b2d2e;\n        border-radius: 18px;\n",
+  "stop_style": "\n        image: url(:/images/resources/stop.png);\n        background-color: #2b2d2e;\n        border-radius: 18px;\n",
+  "inactive_style": "\n        QPushButton{color: #4e5254;\n        }\n",
+  "active_style": "\n        QPushButton{color: white;\n        }\n"
+}

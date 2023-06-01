@@ -1,0 +1,6 @@
+<launch>
+<include file="$(find rur_gazebo)/launch/rur_house.launch"/>
+<include file="$(find rur_navigation)/launch/rur_navigation.launch"/>
+<node name="main_gui" pkg="onder_lift" type="main.py"/>
+
+</launch>
